@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "nombre": "expresso"
+    },
+    {
+      "id": 2,
+      "nombre": "latte"
+    },
+    {
+      "id": 3,
+      "nombre": "Cappuccino"
+    },
+    {
+      "id": 4,
+      "nombre": "filtrado"
+    }
+  ]
